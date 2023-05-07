@@ -27,7 +27,7 @@ To get started, clone the repository and open `index.html` in your web browser.
 
 ## Authors
 
-**Aarzoo** - Initial work - [Manish Kumar](https://github.com/manish2418)
+ Initial work - [Manish Kumar](https://github.com/manish2418)
 
 ## License
 
