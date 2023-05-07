@@ -4,8 +4,7 @@ This is a simple login form featuring a cute puppy background image, designed us
 
 ## Preview
 
-Here is a preview of the login form:
-![Login Form](https://user-images.githubusercontent.com/59678435/193518301-7fc28e9e-b633-4782-9a7b-e3a07bc36a5f.png)
+
 
 ## Getting Started
 
